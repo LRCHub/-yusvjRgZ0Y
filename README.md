@@ -1,0 +1,54 @@
+# Capital Cities – One Minute More
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.08] Don't wait for an invitation
+[00:12.70] No need for reservation
+[00:16.43] This life is an exploration
+[00:19.67] And you gotta see what I see in you
+[00:37.17] 
+[00:24.06] I can't wait one minute more
+[00:27.86] The sun will shine
+[00:29.61] The sun does shine
+[00:31.74] We can't wait one minute more
+[00:35.42] The sun does shine
+[00:37.77] The sun does shine
+[00:46.77] 
+[00:55.91] Just think of the destination
+[00:59.75] I'll be your transportation
+[01:03.68] We'll find there's a kind of place
+[01:06.63] That can only be seen with a naked mind
+[01:26.13] 
+[01:11.09] I can't wait one minute more
+[01:14.85] The sun will shine
+[01:16.97] The sun does shine
+[01:18.52] We can't wait one minute more
+[01:22.58] The sun does shine
+[01:24.57] The sun does shine
+[01:33.57] 
+[01:42.99] There's a key that opens a door
+[01:47.11] Will you find it and turn it?
+[01:51.10] Take your time, don't take too long
+[01:59.32] There's a map that's washed ashore
+[02:02.99] Will you find it and burn it?
+[02:17.49] 
+[02:10.36] Unleash your imagination
+[02:14.22] Two stars, one constellation
+[02:18.23] Bright lights just to guide the way
+[02:20.65] Can you see what I see in you?
+[02:35.65] 
+[02:29.10] I can't wait one minute more
+[02:32.82] The sun does shine
+[02:34.84] The sun does shine
+[02:36.70] We can't wait one minute more
+[02:40.64] The sun does shine
+[02:42.52] The sun does shine
+[02:51.52] 
+[02:44.77] I can't wait one minute more
+[02:48.31] The sun does shine
+[02:50.33] The sun does shine
+[02:52.62] We can't wait one minute more
+[02:56.33] The sun does shine
+[02:58.21] The sun does shine
+```
