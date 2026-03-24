@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "One Minute More",
+  "base_artist": "Capital Cities",
+  "createdAt": "2026-03-24T21:54:05.830615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/01_One_Minute_More_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Wait One Minute More",
+      "artist": "CIV",
+      "has_synced": true,
+      "path": "select/02_Can't_Wait_One_Minute_More_CIV.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/03_One_Minute_More_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capitol Cities",
+      "has_synced": true,
+      "path": "select/04_One_Minute_More_Capitol_Cities.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/05_One_Minute_More_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Moddi",
+      "has_synced": true,
+      "path": "select/06_One_Minute_More_Moddi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not One Minute More",
+      "artist": "Della Reese",
+      "has_synced": false,
+      "path": "select/07_Not_One_Minute_More_Della_Reese.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Not One Minute More",
+      "artist": "The Isley Brothers",
+      "has_synced": false,
+      "path": "select/08_Not_One_Minute_More_The_Isley_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/09_One_Minute_More_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Minute More (Space Primates Remix)",
+      "artist": "Capital Cities",
+      "has_synced": false,
+      "path": "select/10_One_Minute_More_(Space_Primates_Remix)_Capital_Cities.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Måns Zelmerlöw",
+      "has_synced": true,
+      "path": "select/11_One_Minute_More_Måns_Zelmerlöw.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": true,
+      "path": "select/12_One_Minute_More_Capital_Cities.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Wait One Minute More - Live",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/13_Can't_Wait_One_Minute_More_-_Live_CIV.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Wait One Minute More (live)",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/14_Can't_Wait_One_Minute_More_(live)_CIV.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Wait One Minute More - Rehearsal Session",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/15_Can't_Wait_One_Minute_More_-_Rehearsal_Session_CIV.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Wait One Minute More (rehearsal session)",
+      "artist": "CIV",
+      "has_synced": false,
+      "path": "select/16_Can't_Wait_One_Minute_More_(rehearsal_session)_CIV.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Minute More",
+      "artist": "Capital Cities",
+      "has_synced": false,
+      "path": "select/pl_01_One_Minute_More_Capital_Cities.txt"
+    }
+  ]
+}
